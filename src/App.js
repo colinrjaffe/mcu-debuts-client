@@ -7,7 +7,7 @@ import OneCharacter from "./OneCharacter";
 function App() {
   return (
     <>
-      <h1>This is an MCU app, see what year each super hero debuted.</h1>
+      <h1>Updated MCU App</h1>
       <nav>
         <ul>
           <li>
